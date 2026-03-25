@@ -1,9 +1,23 @@
-Report:
+Phase 2 report:
+o Overview of your final design (with key CAD images)
 
-Solid Works Files:
+o Description of major design decisions and changes from Phase 1
 
-Analysis:
+Our initial design from Phase 1 inlcuded a pneumatic cylinder held together by a ball and socket join to supply tension to the bicep to pull up
 
-Video:
+o Detailed explanation of required analyses (shaft, gear, fatigue, bearings,
+interfaces, etc.) with clear assumptions and results
 
+o Discussion of design for assembly and design for 3D printing
+
+o Updated list of anticipated risks or weaknesses to be addressed in prototyping
+
+2. Phase 2 video: Detailed Design & CAD Walkthrough
+
+o Guided tour of the CAD assembly and key parts
+
+o Short motion study demo
+
+o Explanation of how your analysis informed changes to geometry and material
+choices
 
