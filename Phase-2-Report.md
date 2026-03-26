@@ -77,18 +77,23 @@ Loading for the rack was 30lbs (135N) loaded onto one of the teeth to simulate t
 Results: Max von-misses stress was roughly 40MPa, which is significantly below yield for PPS-CF. Previously, the rack did not have fillets on the edge of the teeth which had initially led to a stress of close to 70MPa but after adding in fillets the results improved and the stress concentration reduced greatly.
 
 Image of Rack Mesh: 
+
 <img width="778" height="437" alt="mesh rack" src="https://github.com/user-attachments/assets/e2738a33-f6fb-41a6-8fcf-6070a5183a7f" />
 
 Image of Boundary Conditions and Loading: 
+
 <img width="778" height="360" alt="rack loading" src="https://github.com/user-attachments/assets/c824e1a8-8fe3-4e7c-b28d-ca7c9d781bbe" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="775" height="366" alt="rack stress" src="https://github.com/user-attachments/assets/7fbb4dc5-653c-4751-9b51-66974f957968" />
 
 Image of Total Deformation: 
+
 <img width="777" height="365" alt="rack total deformation" src="https://github.com/user-attachments/assets/e512ad89-c685-46fb-8172-6b3d7ea75c4b" />
 
 Image of Stress on Tooth: 
+
 <img width="776" height="366" alt="tooth stress" src="https://github.com/user-attachments/assets/d430dccd-ff8a-415d-af6f-f007770b1dd5" />
 
 Factor of Safety: 2.29
@@ -101,15 +106,19 @@ The loading for the pawl was 30lbs (135N) loaded on the face of the pawl that co
 Results: relatively low Von-Misses Stress of 8.5MPa on the underside of the pawl where the pawl experienced significant bending.
 
 Image of Pawl Mesh: 
+
 <img width="778" height="423" alt="pawl mesh " src="https://github.com/user-attachments/assets/6099d872-d4cf-4fb5-a80b-530b6216952e" />
 
 Image of Boundary Conditions and Loading: 
+
 <img width="780" height="361" alt="pawl loading " src="https://github.com/user-attachments/assets/8c44c5fe-266b-4e67-9940-dd30b157fb15" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="777" height="359" alt="Pawl stress" src="https://github.com/user-attachments/assets/ecb08eae-0b15-498c-8911-262a82bd9911" />
 
 Image of Total Deformation: 
+
 <img width="779" height="363" alt="pawl deformation" src="https://github.com/user-attachments/assets/e7c36291-2212-4aa2-8172-a3c4fb9b45a0" />
 
 Factor of Safety: 28.19
@@ -137,35 +146,45 @@ Results: low von misses stress around 3-5MPa depending on the angle, PETG is a s
 
 All Results with Force Pointing to the Right: 
 Image of Forearm Structural Member Mesh: 
+
 <img width="775" height="427" alt="for mesh " src="https://github.com/user-attachments/assets/ace11faa-30ac-481a-9400-6c963b44420a" />
 
 Image of Boundary Conditions and Loading: 
+
 <img width="780" height="361" alt="for load" src="https://github.com/user-attachments/assets/f6ad5d5d-91d3-456f-90c6-998477db4904" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="781" height="363" alt="for def" src="https://github.com/user-attachments/assets/9905f8a5-caab-49e5-95a2-af5e9c24b59d" />
 
 Image of Total Deformation: 
+
 <img width="775" height="361" alt="stress" src="https://github.com/user-attachments/assets/1e0c9139-2208-47e9-8eaa-f22db28417a5" />
 
 All Results with Force Pointing to the Away from Viewer: 
 Image of Boundary Conditions and Loading: 
+
 <img width="781" height="364" alt="21" src="https://github.com/user-attachments/assets/22de5e05-b1a1-4131-b045-ac6d4e57b0cf" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="778" height="358" alt="22" src="https://github.com/user-attachments/assets/ad48719e-9018-49e8-9d92-8d4091d26e92" />
 
 Image of Total Deformation: 
+
 <img width="776" height="365" alt="23" src="https://github.com/user-attachments/assets/5833ace9-80f4-4b61-9deb-02d43c37d427" />
 
 All Results with Force Pointing to the Left: 
 Image of Boundary Conditions and Loading: 
+
 <img width="777" height="361" alt="24" src="https://github.com/user-attachments/assets/6f2dee26-33f3-4661-8bf9-32fe26d87e1c" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="777" height="363" alt="26" src="https://github.com/user-attachments/assets/8d947b6e-0d78-4a79-878f-7d84ceb3f641" />
 
 Image of Total Deformation: 
+
 <img width="778" height="363" alt="27" src="https://github.com/user-attachments/assets/fd299c7f-503b-47c6-8a7e-414debbb584a" />
 
 Factor of Safety: 12.73 (For all directions of force)
@@ -177,26 +196,34 @@ Loading: the pin was loaded in double shear, the forearm support covers the cent
 Results: Von Mises stress of 23MPa in double shear. SF of 3.3 for max shear. The pin will be able to handle the loads we expect to apply to it.
 
 Image of Pin Mesh: 
+
 <img width="775" height="426" alt="Screenshot 2026-03-25 221201" src="https://github.com/user-attachments/assets/a73e77da-96eb-48ee-b53d-537357b22027" />
 
 Image of Boundary Conditions and Loading: 
+
 <img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/1e20a1ac-a3a6-4991-9280-bb4d812ee320" />
 
 Image of Bending and Torsional Stresses: 
+
 <img width="777" height="358" alt="Screenshot 2026-03-25 221239" src="https://github.com/user-attachments/assets/9a24b2e9-009c-4cba-981c-0cff8ad1bd76" />
 
 Image of Total Deformation: 
+
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/7a64c1b3-e55a-49eb-ba79-b814a1069a3c" />
 
 Factor of Safety: 3.3
+
 <img width="780" height="364" alt="Screenshot 2026-03-25 221318" src="https://github.com/user-attachments/assets/bfd2f099-c8f1-4765-be69-7c43e3ed2c35" />
 
 
 Section 2.) Fatigue Assessment 
 
 Estimating Alternating and Mean Stresses Under Expected Repeated Loading: 
+
 <img width="802" height="385" alt="Screenshot 2026-03-25 221704" src="https://github.com/user-attachments/assets/e9d8545b-fe94-46a1-8cde-918d50f9e800" />
+
 <img width="1010" height="336" alt="Screenshot 2026-03-25 221758" src="https://github.com/user-attachments/assets/380078f1-c51d-4436-bd1f-0a1bb4060518" />
+
 <img width="779" height="364" alt="Screenshot 2026-03-25 221817" src="https://github.com/user-attachments/assets/4f9aa185-0f22-4a4d-b4a5-50c4133aea34" />
 
 Estimating Factor of Safety against Fatigue: 12.73 (Found within Section 1 of Forearm Structure Member)
