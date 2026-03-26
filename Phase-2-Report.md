@@ -277,10 +277,12 @@ Because our design does not clearly have two gear meshing with one another, this
 
 Even though our project does not have a true gear system as shown in class, we have made an attempt to show some calculations: 
 Finding Pitch: 
-![IMG_6182](https://github.com/user-attachments/assets/b9917397-3914-4416-aadf-29d9b432090b)
+![IMG_6187](https://github.com/user-attachments/assets/ef1129b0-3116-4149-8b9e-8ba92a38fb87)
+
 
 Finding Tangential Tooth Forces: 
-![IMG_6183](https://github.com/user-attachments/assets/03640ed9-b63f-4a11-b49c-85e3ea6a3bd3)
+![IMG_6188](https://github.com/user-attachments/assets/a4067449-e918-4f29-a7fe-9a675010651a)
+
 
 Perform Bending Stress on Gear Teeth: 
 <img width="776" height="366" alt="tooth stress" src="https://github.com/user-attachments/assets/49b3d689-bf65-4fa6-b213-9e08a76e79e0" />
@@ -292,10 +294,11 @@ Our project does not havd a shaft-hub or a shaft-gear connection. This section i
 
 Section 5.) Bearing Load Check
 Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
-<img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/30c2e097-d1fb-4ab0-b2e8-bfeb7d6d851e" />
+<img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/b7f954e7-40fb-41c3-b45e-f5da06e6aadd" />
+
 Stress Due to Loading: 
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/09435a2a-e116-4a11-8472-6e77518f7416" />
-WORK ON
+
 
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. 
