@@ -47,16 +47,22 @@ Image of Spring:
 
 #### Drawings and Views: 
 Rack Part Drawing: 
+<img width="1793" height="1278" alt="image" src="https://github.com/user-attachments/assets/c2a6bfa8-4f36-465d-91c9-c688eac3d407" />
 
 Pawl Part Drawing:
+<img width="1711" height="1215" alt="image" src="https://github.com/user-attachments/assets/a87b92ba-6db4-4e69-acf9-e46e23fc79db" />
 
 Claw Part Drawing: 
+<img width="1646" height="1169" alt="image" src="https://github.com/user-attachments/assets/79d2d5ef-2640-4200-95c0-fe03c8610b84" />
 
 Forearm Structural Member Part Drawing:
+<img width="1587" height="1119" alt="image" src="https://github.com/user-attachments/assets/b5b0b95e-ecf2-4114-8928-63472e0ec5c2" />
 
 Bicep Structural Member Part Drawing:
+<img width="1796" height="1276" alt="image" src="https://github.com/user-attachments/assets/378ff154-254b-42d8-bd1b-1540bb793e94" />
 
 Exploded View of the Assembly: 
+<img width="1316" height="1316" alt="image" src="https://github.com/user-attachments/assets/12fcfcc5-5da7-4b4b-a205-b22b07d88c3b" />
 
 Basic Motion Animation Showing Mechanism in Operation: 
 https://cdn.discordapp.com/attachments/1460641506342736011/1486605529576112208/ezgif-7d994e7dc013a4ed.gif?ex=69c61cca&is=69c4cb4a&hm=1f52e761a2f05991b0fe408fb6949ef89b03de6c98313c8e3133af888f1510d2&
