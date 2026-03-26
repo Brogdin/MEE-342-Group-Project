@@ -295,10 +295,12 @@ Because our design does not clearly have two gear meshing with one another, this
 
 Even though our project does not have a true gear system as shown in class, we have made an attempt to show some calculations: 
 Finding Pitch: 
+
 ![IMG_6187](https://github.com/user-attachments/assets/ef1129b0-3116-4149-8b9e-8ba92a38fb87)
 
 
 Finding Tangential Tooth Forces: 
+
 ![IMG_6188](https://github.com/user-attachments/assets/a4067449-e918-4f29-a7fe-9a675010651a)
 
 
