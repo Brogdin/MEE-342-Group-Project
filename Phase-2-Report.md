@@ -36,7 +36,7 @@ Ensure Parts are Sized within the Build Volume of the 3D Printer:
 Our group owns a Bambu Lab P1S printer. The build volume of this printer is 256mm by 256mm by 256mm. This is 10 inches by 10 inches by 10 inches. The longest part our group plans to print is 20.5 inches long. 
 This length exceeds the build volume of our printer. To address this issue, our group will separate this long part into two parts, add dove tails to where these parts are divided, then print each part. Afterwards, the dove tail pattern will be used to attach the parts together. Dove tails allows the parts to be printed in smaller portions and can be reattached while allowing the structure to stay strong and act as if it was a single member. 
 
-BORIS TELL WHAT PLA WE ARE USING 
+
 
 ### Description of Major Design Decisions and Changes from Phase 1
 The initial Phase 1 design utilized a pneumatic cylinder connected through a ball and socket joint to provide tension for assisting the bicep in lifting loads, with fabric braces positioned along the arm for support. The system was originally intended to support approximately 20 pounds of additional overhead weight. However, recent feedback from Phase 1 and further design evaluation resulted in several major changes implemented in Phase 2 for improved usability, safety, and mechanical efficiency.
