@@ -45,6 +45,9 @@ Image of Spring:
 
 ![image](https://github.com/user-attachments/assets/f3f60067-d72c-414b-89be-a8c5bd6225f3)
 
+Image of Exploded View:
+<img width="1316" height="1316" alt="image" src="https://github.com/user-attachments/assets/83672e4f-ce7a-4fbc-a41d-d8ad04b74187" />
+
 #### Drawings and Views: 
 Rack Part Drawing: 
 <img width="1793" height="1278" alt="image" src="https://github.com/user-attachments/assets/c2a6bfa8-4f36-465d-91c9-c688eac3d407" />
@@ -67,9 +70,8 @@ Pull Wheel Part Drawing:
 Forearm Spring Attachment Pin Part Drawing:
 <img width="1534" height="1092" alt="image" src="https://github.com/user-attachments/assets/cee813b6-fb16-4ea8-8774-4483d43be252" />
 
-
 Exploded View of the Assembly: 
-<img width="1316" height="1316" alt="image" src="https://github.com/user-attachments/assets/12fcfcc5-5da7-4b4b-a205-b22b07d88c3b" />
+<img width="1794" height="1267" alt="image" src="https://github.com/user-attachments/assets/833e30f0-a9f7-4fe0-b71e-b2bdc00cb890" />
 
 Basic Motion Animation Showing Mechanism in Operation: 
 https://cdn.discordapp.com/attachments/1460641506342736011/1486605529576112208/ezgif-7d994e7dc013a4ed.gif?ex=69c61cca&is=69c4cb4a&hm=1f52e761a2f05991b0fe408fb6949ef89b03de6c98313c8e3133af888f1510d2&
