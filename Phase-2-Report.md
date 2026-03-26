@@ -3,20 +3,47 @@
 ## Phase 2 Report
 
 ### Overview of Your Final Design
-![image](https://github.com/user-attachments/assets/e4e474d0-4879-4abc-a0af-94142ce35ce6)
+
 
 #### Full 3D Assembly:
 
+![image](https://github.com/user-attachments/assets/e4e474d0-4879-4abc-a0af-94142ce35ce6)
+
 Image of Rack: 
+
+![image](https://github.com/user-attachments/assets/fd3fcf0f-4d38-4cb8-8b48-939f8a5ef518)
 
 Image of Pawl: 
 
+![image](https://github.com/user-attachments/assets/4d8a79e0-2976-4fad-a35e-9d9284daa560)
+
 Image of Claw: 
+
+![image](https://github.com/user-attachments/assets/1d23188c-e79d-4294-a585-31aac619b035)
 
 Image of Forearm Structural Member: 
 
+![image](https://github.com/user-attachments/assets/9beb1c33-65f9-4696-b42a-8153f331e2eb)
+
 Image of Bicep Structural Member: 
 
+![image](https://github.com/user-attachments/assets/97ca0ec1-9207-43ae-a8a2-8fdbda25f743)
+
+Image of Pulley Wheel:
+
+![image](https://github.com/user-attachments/assets/22c381f9-f786-42e5-9a34-1d16e692f9fd)
+
+Image of Archery Trigger:
+
+![image](https://github.com/user-attachments/assets/6696e7a0-a375-40ba-9a66-1db2c27545a8)
+
+Image of Pin:
+
+![image](https://github.com/user-attachments/assets/48b2d188-1db4-4920-9745-abba9d95397d)
+
+Image of Spring:
+
+![image](https://github.com/user-attachments/assets/f3f60067-d72c-414b-89be-a8c5bd6225f3)
 
 #### Drawings and Views: 
 Rack Part Drawing: 
