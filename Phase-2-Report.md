@@ -331,4 +331,4 @@ With the addition of the new ratchet pulley system and archer trigger system, th
 
 ## Phase 2 Video: Detailed Design & CAD Walkthrough
 
-[![Phase 2 Video: Detailed Design & CAD Walkthrough](https://img.youtube.com/vi/nM7OlvWYxul/maxresdefault.jpg)](https://youtu.be/nM7OlvWYxul)
+[![Phase 2 Video: Detailed Design & CAD Walkthrough](https://img.youtube.com/vi/nM7OlvWYxuI/maxresdefault.jpg)](https://www.youtube.com/watch?v=nM7OlvWYxuI)
