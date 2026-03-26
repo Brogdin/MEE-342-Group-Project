@@ -220,7 +220,7 @@ Factor of Safety: 12.73 (For all directions of force)
 
 Critical Part: Pin
 Analysis Results and Discussion about Pin: 
-The pin was analyzed with PPS-CF as the material. This was done because the pin is placed in double shear with the forea50rm support piece as well as the fishing line. The improved strength of PPS-CF was chosen as suitable for this double shear loading.
+The pin was analyzed with PPS-CF as the material. This was done because the pin is placed in double shear with the forearm support piece as well as the fishing line. The improved strength of PPS-CF was chosen as suitable for this double shear loading.
 Loading: the pin was loaded in double shear, the forearm support covers the center 0.5” of the pin, and the fishing line applies a 60lb force in the opposing direction of the fixed face.
 Results: Von Mises stress of 23MPa in double shear. SF of 3.3 for max shear. The pin will be able to handle the loads we expect to apply to it.
 
@@ -258,7 +258,7 @@ Estimating Alternating and Mean Stresses Under Expected Repeated Loading:
 Estimating Factor of Safety against Fatigue: 12.73 (Found within Section 1 of Forearm Structure Member)
 
 Section 3.) Gear and Tooth Loading
-Because our design does not clearly have two gear meshing with one another, this portion of teh assignment is not applicable to our project. Instead, our group is using a rack and pawl. 
+Because our design does not clearly have two gear meshing with one another, this portion of the assignment is not applicable to our project. Instead, our group is using a rack and pawl. 
 
 Even though our project does not have a true gear system as shown in class, we have made an attempt to show some calculations: 
 Finding Pitch: 
@@ -270,7 +270,7 @@ Finding Tangential Tooth Forces:
 Perform Bending Stress on Gear Teeth: 
 <img width="776" height="366" alt="tooth stress" src="https://github.com/user-attachments/assets/49b3d689-bf65-4fa6-b213-9e08a76e79e0" />
 
-Contant stress over time could cause the tooth to wear down or deform. This could cause the pawl or tooth to not come in contact fully and not hold teh weight of teh spring correctly. This could cause injury if the straight gear is pulled down forcefully due to the pawl slipping off the tooth due to wear.
+Contant stress over time could cause the tooth to wear down or deform. This could cause the pawl or tooth to not come in contact fully and not hold the weight of the spring correctly. This could cause injury if the straight gear is pulled down forcefully due to the pawl slipping off the tooth due to wear.
 
 Section 4.) Key/ Coupling / Interface Stresses
 Our project does not havd a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
