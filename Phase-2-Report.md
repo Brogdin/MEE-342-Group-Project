@@ -61,6 +61,9 @@ Forearm Structural Member Part Drawing:
 Bicep Structural Member Part Drawing:
 <img width="1796" height="1276" alt="image" src="https://github.com/user-attachments/assets/378ff154-254b-42d8-bd1b-1540bb793e94" />
 
+Pull Wheel Part Drawing:
+<img width="1801" height="1268" alt="image" src="https://github.com/user-attachments/assets/9752d91c-4dd2-4da9-8938-140fe1c3669b" />
+
 Exploded View of the Assembly: 
 <img width="1316" height="1316" alt="image" src="https://github.com/user-attachments/assets/12fcfcc5-5da7-4b4b-a205-b22b07d88c3b" />
 
