@@ -3,8 +3,10 @@
 ## Phase 2 Report
 
 ### Overview of Your Final Design
-*(Insert Key CAD Images here)*
+![image](https://github.com/user-attachments/assets/e4e474d0-4879-4abc-a0af-94142ce35ce6)
+
 #### Full 3D Assembly:
+
 Image of Rack: 
 
 Image of Pawl: 
