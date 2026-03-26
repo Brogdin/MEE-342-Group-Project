@@ -293,10 +293,12 @@ Section 4.) Key/ Coupling / Interface Stresses
 Our project does not havd a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
 
 Section 5.) Bearing Load Check
+While our project does not have a bearing, we wanted to provide analysis on our pin part. The pin is the closest object we have that resembles a bearing. 
 Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
 <img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/b7f954e7-40fb-41c3-b45e-f5da06e6aadd" />
 
 Stress Due to Loading: 
+
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/09435a2a-e116-4a11-8472-6e77518f7416" />
 
 Section 6.) Critical Parts Summary
