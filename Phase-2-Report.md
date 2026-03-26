@@ -142,9 +142,13 @@ Image of Stress on Tooth:
 
 Factor of Safety: 2.29
 
+The rack has a  maximum stress of 37.941MPa and a maximum deformation of 0.0084mm. Because the factor of safety is 2.29, this shows how the part can withstand the stress it undergoes and will not break. 
+
 
 Critical Part: Pawl
+
 Analysis Results and Discussion about Pawl: 
+
 The pawl was analyzed using PPS-CF as the material. Properties can be seen above.
 The loading for the pawl was 30lbs (135N) loaded on the face of the pawl that contacts the tooth of the rack. 
 Results: relatively low Von-Misses Stress of 8.5MPa on the underside of the pawl where the pawl experienced significant bending.
@@ -167,9 +171,14 @@ Image of Total Deformation:
 
 Factor of Safety: 28.19
 
+The pawl has a  maximum stress of 8.8081MPa and a maximum deformation of 0.081mm. Because the factor of safety is 28.19, this shows how the part can withstand the stress it undergoes and will not break. 
+
+
 
 Critical Part: Forearm Structural Member
+
 Analysis Results and Discussion about Forearm Structural Member: 
+
 The forearm structural member was analyzed using PETG. Initially, PPS-CF was used for analysis, but after seeing the results, and considering the repeated impact to the part, the material was changed to PETG due to its improved impact resistance and because it is more cost effective compared to PPS-CF as well as easier to print with. Material properties are listed below:
 Material: PETG (Printed Filament)
 Density = 1270 kg/m^3
@@ -233,8 +242,14 @@ Image of Total Deformation:
 
 Factor of Safety: 12.73 (For all directions of force)
 
+The forearm structure member has a maximum stress of 4.02MPa and a maximum deformation of 0.097mm. Because the factor of safety is 12.73, this shows how the part can withstand the stress it undergoes and will not break. 
+
+
+
 Critical Part: Pin
+
 Analysis Results and Discussion about Pin: 
+
 The pin was analyzed with PPS-CF as the material. This was done because the pin is placed in double shear with the forearm support piece as well as the fishing line. The improved strength of PPS-CF was chosen as suitable for this double shear loading.
 Loading: the pin was loaded in double shear, the forearm support covers the center 0.5” of the pin, and the fishing line applies a 60lb force in the opposing direction of the fixed face.
 Results: Von Mises stress of 23MPa in double shear. SF of 3.3 for max shear. The pin will be able to handle the loads we expect to apply to it for a long period of time.
@@ -258,6 +273,9 @@ Image of Total Deformation:
 Factor of Safety: 3.3
 
 <img width="780" height="364" alt="Screenshot 2026-03-25 221318" src="https://github.com/user-attachments/assets/bfd2f099-c8f1-4765-be69-7c43e3ed2c35" />
+
+The forearm structure member has a maximum stress of 23.33MPa and a maximum deformation of 0.00009mm. Because the factor of safety is 3.3, this shows how the part can withstand the stress it undergoes and will not break. 
+
 
 
 Section 2.) Fatigue Assessment 
