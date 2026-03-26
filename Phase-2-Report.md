@@ -81,7 +81,6 @@ Several structural changes were adjusted to improve stability and comfort:
 These modifications reduce user effort, improve the control of tension, and enhance the reliability of the system while maintaining its intended functional purpose.
 
 ### Detailed Explanation of Required Analyses
-*(Provide detailed explanation of Shaft, Gear, Fatigue, Bearings, Interfaces, etc., with clear assumptions and results)*
 
 Section 1.) Static Stress and Factor of Safety: 
 Critical Part: Rack
