@@ -314,6 +314,7 @@ Section 4.) Key/ Coupling / Interface Stresses
 Our project does not have a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
 
 Section 5.) Bearing Load Check
+
 Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
 <img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/b7f954e7-40fb-41c3-b45e-f5da06e6aadd" />
 
@@ -328,6 +329,7 @@ FEA results in Ansys show a maximum equivalent stress of 23.33 MPa at the shear 
 This bearing will last a long peroid of time due to the factors of safety being high. Additionally, the high factors of safety conclude how the arm brace will not be used enough to cause any component to break. 
 
 Section 6.) Critical Parts Summary
+
 All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of >1 and no design modifications were needed to be changed. 
 
 ### Discussion of Design for Assembly and Design for 3D Printing
