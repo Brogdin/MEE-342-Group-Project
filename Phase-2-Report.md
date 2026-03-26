@@ -310,7 +310,8 @@ Perform Bending Stress on Gear Teeth:
 Contant stress over time could cause the tooth to wear down or deform. This could cause the pawl or tooth to not come in contact fully and not hold the weight of the spring correctly. This could cause injury if the straight gear is pulled down forcefully due to the pawl slipping off the tooth due to wear.
 
 Section 4.) Key/ Coupling / Interface Stresses
-Our project does not havd a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
+
+Our project does not have a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
 
 Section 5.) Bearing Load Check
 Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
