@@ -1,4 +1,4 @@
-# Phase 2 Submission
+# Phase 2 Submission (video at the bottom) 
 
 ## Phase 2 Report
 
