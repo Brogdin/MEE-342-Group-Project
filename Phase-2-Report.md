@@ -91,7 +91,7 @@ Image of Total Deformation:
 Image of Stress on Tooth: 
 <img width="776" height="366" alt="tooth stress" src="https://github.com/user-attachments/assets/d430dccd-ff8a-415d-af6f-f007770b1dd5" />
 
-Factor of Safety: 
+Factor of Safety: 2.29
 
 
 Critical Part: Pawl
@@ -112,7 +112,7 @@ Image of Bending and Torsional Stresses:
 Image of Total Deformation: 
 <img width="779" height="363" alt="pawl deformation" src="https://github.com/user-attachments/assets/e7c36291-2212-4aa2-8172-a3c4fb9b45a0" />
 
-Factor of Safety: 
+Factor of Safety: 28.19
 
 
 Critical Part: Forearm Structural Member
@@ -148,8 +148,6 @@ Image of Bending and Torsional Stresses:
 Image of Total Deformation: 
 <img width="775" height="361" alt="stress" src="https://github.com/user-attachments/assets/1e0c9139-2208-47e9-8eaa-f22db28417a5" />
 
-Factor of Safety: 
-
 All Results with Force Pointing to the Away from Viewer: 
 Image of Boundary Conditions and Loading: 
 <img width="781" height="364" alt="21" src="https://github.com/user-attachments/assets/22de5e05-b1a1-4131-b045-ac6d4e57b0cf" />
@@ -159,8 +157,6 @@ Image of Bending and Torsional Stresses:
 
 Image of Total Deformation: 
 <img width="776" height="365" alt="23" src="https://github.com/user-attachments/assets/5833ace9-80f4-4b61-9deb-02d43c37d427" />
-
-Factor of Safety: 
 
 All Results with Force Pointing to the Left: 
 Image of Boundary Conditions and Loading: 
@@ -172,7 +168,7 @@ Image of Bending and Torsional Stresses:
 Image of Total Deformation: 
 <img width="778" height="363" alt="27" src="https://github.com/user-attachments/assets/fd299c7f-503b-47c6-8a7e-414debbb584a" />
 
-Factor of Safety: 
+Factor of Safety: 12.73 (For all directions of force)
 
 Critical Part: Pin
 Analysis Results and Discussion about Pin: 
@@ -192,7 +188,7 @@ Image of Bending and Torsional Stresses:
 Image of Total Deformation: 
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/7a64c1b3-e55a-49eb-ba79-b814a1069a3c" />
 
-Factor of Safety: 
+Factor of Safety: 3.3
 <img width="780" height="364" alt="Screenshot 2026-03-25 221318" src="https://github.com/user-attachments/assets/bfd2f099-c8f1-4765-be69-7c43e3ed2c35" />
 
 
@@ -203,12 +199,12 @@ Estimating Alternating and Mean Stresses Under Expected Repeated Loading:
 <img width="1010" height="336" alt="Screenshot 2026-03-25 221758" src="https://github.com/user-attachments/assets/380078f1-c51d-4436-bd1f-0a1bb4060518" />
 <img width="779" height="364" alt="Screenshot 2026-03-25 221817" src="https://github.com/user-attachments/assets/4f9aa185-0f22-4a4d-b4a5-50c4133aea34" />
 
-Estimating Factor of Safety against Fatigue: 
+Estimating Factor of Safety against Fatigue: 12.73 (Found within Section 1 of Forearm Structure Member)
 
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. [Image of 3D printed dovetail joint]
 
-The strength and reliability of the 3D printed components are intended to be improved through the use of axles, hinges, and other load-bearing features that help support and align layered prints. For example, axles would be used within the ratcheting pulley system to support each pulley wheel, allowing for smoother cable motion and reduced friction during operation. Tolerances within +/- 0.0625 of an inch will be considered between mating parts to ensure proper fit without excessive friction, allowing for smooth movement in both the ratcheting and archer trigger mechanisms. Clearance will also be a minimum of 0.005 inches between all moving parts.
+The strength and reliability of the 3D printed components are intended to be improved through the use of axles, hinges, and other load-bearing features that help support and align layered prints. For example, axles would be used within the ratcheting pulley system to support each pulley wheel, allowing for smoother cable motion and reduced friction during operation. Tolerances within +/- 0.0625 of an inch will be considered between mating parts to ensure proper fit without excessive friction, allowing for smooth movement in both the ratcheting and archer trigger mechanisms. Clearance will also be a minimum of 0.0625 inches between all moving parts.
 
 The design minimizes the number of unique fasteners where possible to reduce complexity and potential errors during assembly. Additionally, components are designed to be modular so that individual parts can be easily replaced if failure occurs. Overall, the system is intended to balance performance, manufacturability, and ease of assembly, making it well-suited for implementation using standard 3D printing methods.
 
