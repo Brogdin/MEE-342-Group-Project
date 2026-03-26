@@ -4,7 +4,36 @@
 
 ### Overview of Your Final Design
 *(Insert Key CAD Images here)*
+#### Full 3D Assembly:
+Image of Rack: 
 
+Image of Pawl: 
+
+Image of Claw: 
+
+Image of Forearm Structural Member: 
+
+Image of Bicep Structural Member: 
+
+
+#### Drawings and Views: 
+Rack Part Drawing: 
+
+Pawl Part Drawing:
+
+Claw Part Drawing: 
+
+Forearm Structural Member Part Drawing:
+
+Bicep Structural Member Part Drawing:
+
+Exploded View of the Assembly: 
+
+Basic Motion Animation Showing Mechanism in Operation: 
+
+#### Printability: 
+Ensure Parts are Sized within the Build Volume of the 3D Printer:
+Our group owns a Bambu Lab P1S printer. The build volume of this printer is 256mm by 256mm by 256mm. This is 10 inches by 10 inches by 10 inches. The longest part our group plans to print is 20.5 inches long 
 ### Description of Major Design Decisions and Changes from Phase 1
 The initial Phase 1 design utilized a pneumatic cylinder connected through a ball and socket joint to provide tension for assisting the bicep in lifting loads, with fabric braces positioned along the arm for support. The system was originally intended to support approximately 20 pounds of additional overhead weight. However, recent feedback from Phase 1 and further design evaluation resulted in several major changes implemented in Phase 2 for improved usability, safety, and mechanical efficiency.
 
@@ -24,7 +53,7 @@ These modifications reduce user effort, improve the control of tension, and enha
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. [Image of 3D printed dovetail joint]
 
-The strength and reliability of the 3D printed components are intended to be improved through the use of axles, hinges, and other load-bearing features that help support and align layered prints. For example, axles would be used within the ratcheting pulley system to support each pulley wheel, allowing for smoother cable motion and reduced friction during operation. Tolerances within +/- 0.005 of an inch will be considered between mating parts to ensure proper fit without excessive friction, allowing for smooth movement in both the ratcheting and archer trigger mechanisms. Clearance will also be a minimum of 0.005 inches between all moving parts.
+The strength and reliability of the 3D printed components are intended to be improved through the use of axles, hinges, and other load-bearing features that help support and align layered prints. For example, axles would be used within the ratcheting pulley system to support each pulley wheel, allowing for smoother cable motion and reduced friction during operation. Tolerances within +/- 0.0625 of an inch will be considered between mating parts to ensure proper fit without excessive friction, allowing for smooth movement in both the ratcheting and archer trigger mechanisms. Clearance will also be a minimum of 0.005 inches between all moving parts.
 
 The design minimizes the number of unique fasteners where possible to reduce complexity and potential errors during assembly. Additionally, components are designed to be modular so that individual parts can be easily replaced if failure occurs. Overall, the system is intended to balance performance, manufacturability, and ease of assembly, making it well-suited for implementation using standard 3D printing methods.
 
