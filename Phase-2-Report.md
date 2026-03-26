@@ -304,6 +304,8 @@ While our design does not incorporate a traditional rolling-element or journal b
 
 FEA results in Ansys show a maximum equivalent stress of 23.33 MPa at the shear plane, with the majority of the pin remaining well below this value. Given that the pin is manufactured from PPS-CF10, which has a tensile yield strength of 87 MPa, the static factor of safety at the critical shear location is approximately 3.3. This comfortably exceeds the minimum acceptable margin for a repeatedly loaded interface component.
 
+This bearing will last a long peroid of time due to the factors of safety being high. Additionally, the high factors of safety conclude how the arm brace will not be used enough to cause any component to break. 
+
 Section 6.) Critical Parts Summary
 All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of >1 and no design modifications were needed to be changed. 
 
