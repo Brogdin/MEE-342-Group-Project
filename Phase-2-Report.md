@@ -299,6 +299,8 @@ Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
 Stress Due to Loading: 
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/09435a2a-e116-4a11-8472-6e77518f7416" />
 
+Section 6.) Critical Parts Summary
+All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of >1 and no design modifications were needed to be changed. 
 
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. 
@@ -318,8 +320,7 @@ With the addition of the new ratchet pulley system and archer trigger system, th
 
 ---
 
-Section 6.) Critical Parts Summary
-All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of <1 and no design modifications were needed to be changed. 
+
 
 ## Phase 2 Video: Detailed Design & CAD Walkthrough
 
