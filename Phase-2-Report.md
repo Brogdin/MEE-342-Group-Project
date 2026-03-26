@@ -64,7 +64,7 @@ Bicep Structural Member Part Drawing:
 Pull Wheel Part Drawing:
 <img width="1801" height="1268" alt="image" src="https://github.com/user-attachments/assets/9752d91c-4dd2-4da9-8938-140fe1c3669b" />
 
-Forearm Spring Attachement Pin Part Drawing:
+Forearm Spring Attachment Pin Part Drawing:
 <img width="1534" height="1092" alt="image" src="https://github.com/user-attachments/assets/cee813b6-fb16-4ea8-8774-4483d43be252" />
 
 
