@@ -1,5 +1,5 @@
 # MEE-342-Group-Project
-# Group Members: Eve, Zane, Brig, Drew, Boris, Gavin and Albert.
+# Group Members: Eve Roberts, Zane, Brigdon Foster, Drew, Boris, Gavin Russo and Albert.
 
 ### Project Submissions
 * [Phase 1 Report](Phase-1-submission.md)
