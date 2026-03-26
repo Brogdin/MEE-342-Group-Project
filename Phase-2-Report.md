@@ -54,6 +54,8 @@ These modifications reduce user effort, improve the control of tension, and enha
 ### Detailed Explanation of Required Analyses
 *(Provide detailed explanation of Shaft, Gear, Fatigue, Bearings, Interfaces, etc., with clear assumptions and results)*
 
+
+
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. [Image of 3D printed dovetail joint]
 
