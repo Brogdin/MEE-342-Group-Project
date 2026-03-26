@@ -222,7 +222,7 @@ Critical Part: Pin
 Analysis Results and Discussion about Pin: 
 The pin was analyzed with PPS-CF as the material. This was done because the pin is placed in double shear with the forearm support piece as well as the fishing line. The improved strength of PPS-CF was chosen as suitable for this double shear loading.
 Loading: the pin was loaded in double shear, the forearm support covers the center 0.5” of the pin, and the fishing line applies a 60lb force in the opposing direction of the fixed face.
-Results: Von Mises stress of 23MPa in double shear. SF of 3.3 for max shear. The pin will be able to handle the loads we expect to apply to it.
+Results: Von Mises stress of 23MPa in double shear. SF of 3.3 for max shear. The pin will be able to handle the loads we expect to apply to it for a long period of time.
 
 Image of Pin Mesh: 
 
@@ -299,6 +299,9 @@ With the addition of the new ratchet pulley system and archer trigger system, th
 * **Energy Release:** Any failure within these interconnected systems could lead to the uncontrolled release of stored energy in the spring, posing further safety risks to the user.
 
 ---
+
+Section 6.) Critical Parts Summary
+All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of <1 and no design modifications were needed to be changed. 
 
 ## Phase 2 Video: Detailed Design & CAD Walkthrough
 
