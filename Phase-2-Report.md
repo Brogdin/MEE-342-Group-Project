@@ -293,13 +293,16 @@ Section 4.) Key/ Coupling / Interface Stresses
 Our project does not havd a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
 
 Section 5.) Bearing Load Check
-While our project does not have a bearing, we wanted to provide analysis on our pin part. The pin is the closest object we have that resembles a bearing. 
 Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
 <img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/b7f954e7-40fb-41c3-b45e-f5da06e6aadd" />
 
 Stress Due to Loading: 
 
 <img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/09435a2a-e116-4a11-8472-6e77518f7416" />
+
+While our design does not incorporate a traditional rolling-element or journal bearing, the pin serving as the spring attachment point on the forearm structural member functions as the primary load-bearing interface in the system. The pin is loaded in double shear, with the forearm support constraining the center of the pin via a cylindrical support, and the fishing line applying a 270 N (60 lb) force at the pin's midspan. 
+
+FEA results in Ansys show a maximum equivalent stress of 23.33 MPa at the shear plane, with the majority of the pin remaining well below this value. Given that the pin is manufactured from PPS-CF10, which has a tensile yield strength of 87 MPa, the static factor of safety at the critical shear location is approximately 3.3. This comfortably exceeds the minimum acceptable margin for a repeatedly loaded interface component.
 
 Section 6.) Critical Parts Summary
 All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, Pin) were achieved with a factor of safety of >1 and no design modifications were needed to be changed. 
