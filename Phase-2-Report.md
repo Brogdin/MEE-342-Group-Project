@@ -320,11 +320,4 @@ All margins of the four critical parts (Rack, Pawl, Forearm Structural Member, P
 
 ## Phase 2 Video: Detailed Design & CAD Walkthrough
 
-### Guided Tour of the CAD Assembly and Key Parts
-*(Insert video link or details here)*
-
-### Short Motion Study Demonstration
-*(Insert video link or details here)*
-
-### Explanation of how Analysis Informed Changes to Geometry and Material Choices
-*(Insert details here)*
+[![Watch the video](https://youtu.be/nM7OlvWYxuI)
