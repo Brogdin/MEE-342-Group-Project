@@ -59,13 +59,14 @@ Bicep Structural Member Part Drawing:
 Exploded View of the Assembly: 
 
 Basic Motion Animation Showing Mechanism in Operation: 
+https://cdn.discordapp.com/attachments/1460641506342736011/1486605529576112208/ezgif-7d994e7dc013a4ed.gif?ex=69c61cca&is=69c4cb4a&hm=1f52e761a2f05991b0fe408fb6949ef89b03de6c98313c8e3133af888f1510d2&
 
 #### Printability: 
 Ensure Parts are Sized within the Build Volume of the 3D Printer:
 Our group owns a Bambu Lab P1S printer. The build volume of this printer is 256mm by 256mm by 256mm. This is 10 inches by 10 inches by 10 inches. The longest part our group plans to print is 20.5 inches long. 
 This length exceeds the build volume of our printer. To address this issue, our group will separate this long part into two parts, add dove tails to where these parts are divided, then print each part. Afterwards, the dove tail pattern will be used to attach the parts together. Dove tails allows the parts to be printed in smaller portions and can be reattached while allowing the structure to stay strong and act as if it was a single member. 
 
-
+When printing our parts, we will ensure that each part has a tolerance of +- 0.0625mm. We will also ensure that the clearnce between each printed part will be +-0.03125mm. Our chosen filament for parts that other parts rotate around them, such as the pin, will be made out of PPS-CF10. Our solid parts that require more strength due to teh stresses they undergo will be PETG.  
 
 ### Description of Major Design Decisions and Changes from Phase 1
 The initial Phase 1 design utilized a pneumatic cylinder connected through a ball and socket joint to provide tension for assisting the bicep in lifting loads, with fabric braces positioned along the arm for support. The system was originally intended to support approximately 20 pounds of additional overhead weight. However, recent feedback from Phase 1 and further design evaluation resulted in several major changes implemented in Phase 2 for improved usability, safety, and mechanical efficiency.
@@ -255,6 +256,31 @@ Estimating Alternating and Mean Stresses Under Expected Repeated Loading:
 <img width="779" height="364" alt="Screenshot 2026-03-25 221817" src="https://github.com/user-attachments/assets/4f9aa185-0f22-4a4d-b4a5-50c4133aea34" />
 
 Estimating Factor of Safety against Fatigue: 12.73 (Found within Section 1 of Forearm Structure Member)
+
+Section 3.) Gear and Tooth Loading
+Because our design does not clearly have two gear meshing with one another, this portion of teh assignment is not applicable to our project. Instead, our group is using a rack and pawl. 
+
+Even though our project does not have a true gear system as shown in class, we have made an attempt to show some calculations: 
+Finding Pitch: 
+![IMG_6182](https://github.com/user-attachments/assets/b9917397-3914-4416-aadf-29d9b432090b)
+
+Finding Tangential Tooth Forces: 
+![IMG_6183](https://github.com/user-attachments/assets/03640ed9-b63f-4a11-b49c-85e3ea6a3bd3)
+
+Perform Bending Stress on Gear Teeth: 
+<img width="776" height="366" alt="tooth stress" src="https://github.com/user-attachments/assets/49b3d689-bf65-4fa6-b213-9e08a76e79e0" />
+
+Contant stress over time could cause the tooth to wear down or deform. This could cause the pawl or tooth to not come in contact fully and not hold teh weight of teh spring correctly. This could cause injury if the straight gear is pulled down forcefully due to the pawl slipping off the tooth due to wear.
+
+Section 4.) Key/ Coupling / Interface Stresses
+Our project does not havd a shaft-hub or a shaft-gear connection. This section is not applicable for our project. 
+
+Section 5.) Bearing Load Check
+Finding Reaction Loads on One Bearing based on Shaft Loading: (Pin)
+<img width="776" height="360" alt="Screenshot 2026-03-25 221220" src="https://github.com/user-attachments/assets/30c2e097-d1fb-4ab0-b2e8-bfeb7d6d851e" />
+Stress Due to Loading: 
+<img width="778" height="355" alt="Screenshot 2026-03-25 221258" src="https://github.com/user-attachments/assets/09435a2a-e116-4a11-8472-6e77518f7416" />
+WORK ON
 
 ### Discussion of Design for Assembly and Design for 3D Printing
 The design was developed with 3D printing in mind for both the manufacturing and assembly phases. While some components are simple enough to be produced in a single small print, others are larger or more complex, requiring the system to be broken down into smaller, more manageable parts that can be printed separately and assembled afterward. One method used to achieve this is through dovetail joints or similar interlocking features, which allow for easier printing while still maintaining structural integrity once fully assembled. [Image of 3D printed dovetail joint]
