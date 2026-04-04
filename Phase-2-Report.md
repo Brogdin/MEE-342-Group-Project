@@ -74,7 +74,8 @@ Exploded View of the Assembly:
 <img width="1794" height="1267" alt="image" src="https://github.com/user-attachments/assets/833e30f0-a9f7-4fe0-b71e-b2bdc00cb890" />
 
 Basic Motion Animation Showing Mechanism in Operation: 
-https://cdn.discordapp.com/attachments/1460641506342736011/1486605529576112208/ezgif-7d994e7dc013a4ed.gif?ex=69c61cca&is=69c4cb4a&hm=1f52e761a2f05991b0fe408fb6949ef89b03de6c98313c8e3133af888f1510d2&
+![ezgif-7d994e7dc013a4ed](https://github.com/user-attachments/assets/f89f814f-aa49-4694-98ff-ee71d91abe9e)
+
 
 #### Printability: 
 Ensure Parts are Sized within the Build Volume of the 3D Printer:
