@@ -16,4 +16,4 @@
 ## 3. Final Poster and Poster Session
     * Create an ASU-branded poster summarizing Phases 1–3.
     * Present your work during the scheduled poster session. All team members are expected to attend and participate.
-[MEE 342 Poster File Group 12 Forklift .pdf](https://github.com/user-attachments/files/27265347/MEE.342.Poster.File.Group.12.Forklift.pdf)
+<img width="7200" height="4800" alt="MEE 342 Poster File Group 12 Forklift-1" src="https://github.com/user-attachments/assets/d2d782da-0aaa-4b46-8fa9-36206abd6ecc" />
