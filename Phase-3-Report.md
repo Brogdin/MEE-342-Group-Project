@@ -2,8 +2,11 @@
 
 ## 1. Phase 3 Report:
     * Fabrication details (filament type, printer, settings, number of reprints)
+    
     * Assembly procedure and challenges
+    
     * Test procedures, results, and interpretation
+    
     * Comparison with Phase 2 predictions (where applicable)
     
     * Detailed discussion of failures, mistakes, and surprises
