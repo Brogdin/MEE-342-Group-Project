@@ -1,4 +1,4 @@
-# Phase 3 Deliverables
+<img width="829" height="636" alt="image" src="https://github.com/user-attachments/assets/3c3b4f26-1ba8-4ed9-9a2e-567bbc067941" /># Phase 3 Deliverables
 
 ## 1. Phase 3 Report:
     * Fabrication details (filament type, printer, settings, number of reprints)
@@ -16,3 +16,4 @@
 ## 3. Final Poster and Poster Session
     * Create an ASU-branded poster summarizing Phases 1–3.
     * Present your work during the scheduled poster session. All team members are expected to attend and participate.
+[MEE 342 Poster File Group 12 Forklift .pdf](https://github.com/user-attachments/files/27265347/MEE.342.Poster.File.Group.12.Forklift.pdf)
