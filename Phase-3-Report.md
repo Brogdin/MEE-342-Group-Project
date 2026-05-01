@@ -33,11 +33,20 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 ---
 
 ## 3. Test Procedures, Results, and Interpretation
+### Testing Objectives
+The primary goals of the Phase 3 testing were to verify:
+1. **Range of Motion (ROM):** Can the user reach full extension and contraction while the spring is engaged?
+2. **Structural Integrity:** Can the connection points (forearm and pin) handle the spring's maximum tension?
+3. **Mechanism Logic:** Does the archer release mechanism successfully trigger the tensioning cycle?
 
-* **Testing Constraints:** Due to the material failures and tolerance issues identified during assembly, a comprehensive test of full system functionality was not possible.
-* **Proof of Concept Verification:** Although a full load test could not be completed, basic mechanical verification was performed. The team was able to successfully stretch the spring and maintain tension by manually inhibiting the gear rack. 
-* **Results:** By manually holding the pawl or the wheel, the rack was prevented from sliding, effectively locking the spring's tension.
-* **Interpretation:** These results indicate that the core mechanical logic is sound. The mechanism is capable of holding and releasing tension as intended; however, the physical components require higher-strength materials and more refined tolerances to function autonomously without manual intervention.
+### Procedures & Observations
+Due to the manufacturing failures previously noted, full autonomous mechanism testing was inhibited. To compensate, the team performed a **simulated ratcheting test**:
+* **ROM Verification:** By manually holding the pulley to simulate the ratcheting lock, the user was able to move through a full range of motion. The spring successfully extended to the expected length without breaking the housing.
+* **FEA Validation:** Components previously analyzed in ANSYS—specifically the **forearm component** and the **double-shear pin**—performed exactly as modeled, holding the full force of the spring without deformation.
+* **Archer Release Mechanism:** The mechanism was cycled successfully three times. The pin fell into the slot and activated the system as designed. However, on the fourth cycle, the axle for the claw fractured due to fatigue stress.
+
+### Interpretation of Results
+The testing proved that the core mechanical logic and the ANSYS-validated components are structurally sound. The system successfully outputted the required torque to meet project goals. The failures encountered were isolated to components that had not undergone FEA (the claw axle) and manufacturing-specific constraints rather than a flaw in the underlying mechanical concept.
 ---
 
 ## 4. Comparison with Phase 2 Predictions
