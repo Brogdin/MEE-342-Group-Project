@@ -40,9 +40,9 @@ The primary goals of the Phase 3 testing were to verify:
 3. **Mechanism Logic:** Does the archer release mechanism successfully trigger the tensioning cycle?
 
 ### Procedures & Observations
-Due to the manufacturing failures previously noted, full autonomous mechanism testing was inhibited. To compensate, the team performed a **simulated ratcheting test**:
+Due to the manufacturing failures noted in section 5, full autonomous mechanism testing was inhibited. To compensate, the team performed a **simulated ratcheting test**:
 * **ROM Verification:** By manually holding the pulley to simulate the ratcheting lock, the user was able to move through a full range of motion. The spring successfully extended to the expected length without breaking the housing.
-* **FEA Validation:** Components previously analyzed in ANSYS—specifically the **forearm component** and the **double-shear pin**—performed exactly as modeled, holding the full force of the spring without deformation.
+* **FEA Validation:** Components previously analyzed as part of phase 2 in ANSYS—specifically the **forearm component** and the **double-shear pin**—performed exactly as modeled, holding the full force of the spring without deformation.
 * **Archer Release Mechanism:** The mechanism was cycled successfully three times. The pin fell into the slot and activated the system as designed. However, on the fourth cycle, the axle for the claw fractured due to fatigue stress.
 
 ### Interpretation of Results
