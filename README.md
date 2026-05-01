@@ -2,5 +2,6 @@
 # Group Members: Eve Roberts, Zane Steindler, Brig Foster, Drew Turner, Boris Gershkovich, Gavin Russo and Albert Richardson.
 
 ### Project Submissions
-* [Phase 1 Report](Phase-1-submission.md)
+* [Phase 1 Report](Phase-1-Report.md)
 * [Phase 2 Report](Phase-2-Report.md)
+* [Phase 3 Report](Phase-3-Report.md)
