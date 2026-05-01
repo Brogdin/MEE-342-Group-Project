@@ -1,5 +1,3 @@
-# Phase 3 Deliverables
-
 ## 1. Phase 3 Report:
 ### Fabrication Details
 **Printers Used**
