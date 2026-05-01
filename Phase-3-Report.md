@@ -1,5 +1,6 @@
 #  Phase 3 Report:
 ## 1. Fabrication Details
+
 **Printers Used**
 The team utilized an **Elegoo Centauri Carbon**, a **Bambu X2D**, and initially a **Prusa XL**.
 * **Elegoo Centauri Carbon:** Required for the PPS-CF parts as it could reach the necessary high nozzle temperatures (320°C).
@@ -22,6 +23,7 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 ---
 
 ## 2. Assembly Procedure and Challenges
+
 * **Slip-Fit Design:** The prototype was designed so that the majority of components connected via a slip fit. This approach allowed for easier alignment and troubleshooting during the initial assembly phase before permanent fixing.
 * **Adhesives:** High-strength super glue was utilized to secure slip-fit joints in areas where permanent structural bonds were required or where mechanical tolerances were too loose to hold under vibration.
 * **High-Grade Fishing Line Linkages:** For specific dynamic connections—specifically between the gear rack and the pulley wheel—high-grade fishing line as well as the spring and the pin was employed. This provided a high-tensile, low-friction link capable of handling the operational loads of the mechanism.
@@ -31,12 +33,15 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 ---
 
 ## 3. Test Procedures, Results, and Interpretation
-* *[Insert testing protocols used]*
-* *[Insert data and interpretation of results]*
 
+* **Testing Constraints:** Due to the material failures and tolerance issues identified during assembly, a comprehensive test of full system functionality was not possible.
+* **Proof of Concept Verification:** Although a full load test could not be completed, basic mechanical verification was performed. The team was able to successfully stretch the spring and maintain tension by manually inhibiting the gear rack. 
+* **Results:** By manually holding the pawl or the wheel, the rack was prevented from sliding, effectively locking the spring's tension.
+* **Interpretation:** These results indicate that the core mechanical logic is sound. The mechanism is capable of holding and releasing tension as intended; however, the physical components require higher-strength materials and more refined tolerances to function autonomously without manual intervention.
 ---
 
 ## 4. Comparison with Phase 2 Predictions
+
 * *[Insert analysis comparing Phase 3 results to initial Phase 2 expectations]*
 
 ---
