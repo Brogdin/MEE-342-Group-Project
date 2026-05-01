@@ -22,8 +22,7 @@
     * Demonstrate at least one test.
     * Discuss major issues encountered and key lessons learned.
     -
-[![Watch the video](https://img.youtube.com/vi/9t-9DwF2vv4/0.jpg)](https://www.youtube.com/watch?v=9t-9DwF2vv4)
-
+[![Watch the video](https://img.youtube.com/vi/9t-9DwF2vv4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9t-9DwF2vv4)
 
 
 ## 3. Final Poster and Poster Session
