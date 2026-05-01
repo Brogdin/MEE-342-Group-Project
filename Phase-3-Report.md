@@ -1,4 +1,4 @@
-<img width="829" height="636" alt="image" src="https://github.com/user-attachments/assets/3c3b4f26-1ba8-4ed9-9a2e-567bbc067941" /># Phase 3 Deliverables
+# Phase 3 Deliverables
 
 ## 1. Phase 3 Report:
     * Fabrication details (filament type, printer, settings, number of reprints)
