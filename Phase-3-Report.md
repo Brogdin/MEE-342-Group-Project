@@ -22,9 +22,11 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 ---
 
 ## 2. Assembly Procedure and Challenges
-* *[Insert specific assembly steps here]*
-* *[Insert assembly challenges encountered]*
-
+* **Slip-Fit Design:** The prototype was designed so that the majority of components connected via a slip fit. This approach allowed for easier alignment and troubleshooting during the initial assembly phase before permanent fixing.
+* **Adhesives:** High-strength super glue was utilized to secure slip-fit joints in areas where permanent structural bonds were required or where mechanical tolerances were too loose to hold under vibration.
+* **High-Grade Fishing Line Linkages:** For specific dynamic connections—specifically between the gear rack and the pulley wheel—high-grade fishing line was employed. This provided a high-tensile, low-friction link capable of handling the operational loads of the mechanism.
+* **Challenges:** * **Tolerance Management:** Balancing the "slip fit" dimensions across different printers (Elegoo vs. Bambu) proved difficult, requiring manual sanding in some areas to ensure parts mated correctly.
+    * **Adhesive Control:** Ensuring super glue did not seep into moving parts or the fishing line tracks during the permanent bonding phase was a significant precision challenge.
 ---
 
 ## 3. Test Procedures, Results, and Interpretation
@@ -68,6 +70,10 @@ Based on the issues identified, the following design improvements will be implem
     
 [![Watch the video](https://img.youtube.com/vi/9t-9DwF2vv4/hqdefault.jpg)](https://www.youtube.com/watch?v=9t-9DwF2vv4)
 
+---
 
 ## 3. Final Poster and Poster Session
+
 <img width="7200" height="4800" alt="MEE 342 Poster File Group 12 Forklift-1" src="https://github.com/user-attachments/assets/d2d782da-0aaa-4b46-8fa9-36206abd6ecc" />
+
+---
