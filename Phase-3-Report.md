@@ -1,5 +1,5 @@
-## 1. Phase 3 Report:
-### Fabrication Details
+#  Phase 3 Report:
+## 1. Fabrication Details
 **Printers Used**
 The team utilized an **Elegoo Centauri Carbon**, a **Bambu X2D**, and initially a **Prusa XL**.
 * **Elegoo Centauri Carbon:** Required for the PPS-CF parts as it could reach the necessary high nozzle temperatures (320°C).
