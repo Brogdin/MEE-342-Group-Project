@@ -24,9 +24,10 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 ## 2. Assembly Procedure and Challenges
 * **Slip-Fit Design:** The prototype was designed so that the majority of components connected via a slip fit. This approach allowed for easier alignment and troubleshooting during the initial assembly phase before permanent fixing.
 * **Adhesives:** High-strength super glue was utilized to secure slip-fit joints in areas where permanent structural bonds were required or where mechanical tolerances were too loose to hold under vibration.
-* **High-Grade Fishing Line Linkages:** For specific dynamic connections—specifically between the gear rack and the pulley wheel—high-grade fishing line was employed. This provided a high-tensile, low-friction link capable of handling the operational loads of the mechanism.
-* **Challenges:** * **Tolerance Management:** Balancing the "slip fit" dimensions across different printers (Elegoo vs. Bambu) proved difficult, requiring manual sanding in some areas to ensure parts mated correctly.
-    * **Adhesive Control:** Ensuring super glue did not seep into moving parts or the fishing line tracks during the permanent bonding phase was a significant precision challenge.
+* **High-Grade Fishing Line Linkages:** For specific dynamic connections—specifically between the gear rack and the pulley wheel—high-grade fishing line as well as the spring and the pin was employed. This provided a high-tensile, low-friction link capable of handling the operational loads of the mechanism.
+* **Tolerance Management:** Balancing the "slip fit" dimensions across different printers (Elegoo vs. Bambu) proved difficult, requiring manual sanding in some areas to ensure parts mated correctly.
+* **Adhesive Control:** Ensuring super glue did not seep into moving parts or the fishing line tracks during the permanent bonding phase was a significant precision challenge.
+
 ---
 
 ## 3. Test Procedures, Results, and Interpretation
