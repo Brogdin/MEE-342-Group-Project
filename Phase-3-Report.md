@@ -2,7 +2,25 @@
 
 ## 1. Phase 3 Report:
 * Fabrication details (filament type, printer, settings, number of reprints)
-   - 
+  ### Printers Used
+The team utilized an **Elegoo Centauri Carbon**, a **Bambu X2D**, and initially a **Prusa XL**.
+* **Elegoo Centauri Carbon:** Required for the PPS-CF parts as it could reach the necessary high nozzle temperatures (320°C).
+* **Bambu X2D:** Used for the PETG components (max temperature 300°C).
+* **Prusa XL:** Used initially for larger parts before access was lost.
+
+### Filaments & Settings
+* **PETG:** Used for primary structural components to maximize impact resistance. Printed using standard Polymaker profile settings.
+* **PPS-CF (Carbon Fiber reinforced):** Used for high-stress rotational and shear components. 
+    * **Nozzle Temperature:** 320°C
+    * **Bed Temperature:** 85°C
+    * **Print Speed:** Slowed from 250mm/s to 100mm/s to ensure proper layer adhesion.
+
+### Infill
+Initial prints were set to 100% infill for maximum density. However, during reprints, the PETG infill was reduced to 50% to conserve limited material while still maximizing structural strength.
+
+### Reprints
+A total of 3 sets of reprints were required. Notably, the bicep piece was originally printed as two parts on the larger Prusa XL, but after losing access to that printer, it had to be split into three separate parts to fit the smaller build volumes of the remaining printers.
+
 * Assembly procedure and challenges
    - 
 * Test procedures, results, and interpretation
