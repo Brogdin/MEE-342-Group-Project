@@ -81,6 +81,9 @@ Based on the issues identified, the following design improvements will be implem
 4.  **Structural Reinforcement:** The archer release mechanism axle will be replaced with a metal component and/or the diameter will be increased to handle higher stress loads.
 5.  **Ergonomic Improvements:** The locking and release interface will be reworked into a trigger, lever, or cable-actuated system located on the hand or wrist. This allows the user to safely release the mechanism under load without awkward positioning.
 
+## 7. Summary of Goal of Our Project: 
+Our group's goal  was to use this course's time and resources to make a new product instead of repeating a design we could easily find online. Although our group faced many failures during the design and assembly of our arm brace, we are still proud that we had the opportunity to experiment with creating an orignal concept we designed. Additionally, we feel that having this tough experience made us better engineers. We have gained the experience and knowledge of how to design a practical object that can help the community while understanding how to use programs like ANSYS to check that our design will work within real world situations. 
+
 ## 2. Phase 3 Video: Prototype Demo & Reflection
     
 [![Watch the video](https://img.youtube.com/vi/9t-9DwF2vv4/hqdefault.jpg)](https://www.youtube.com/watch?v=9t-9DwF2vv4)
