@@ -68,15 +68,15 @@ In Phase 2, FEA static stress analysis predicted high Factors of Safety across t
 Throughout Phase 3, several issues arose during fabrication, assembly, and testing. While the mechanism functioned in concept, many failures originated from manufacturing and material limitations:
 
 * **Pulley Mechanism:** Lacked a retention mechanism, causing it to slide loosely on its intended axle. This created a risk of pulley detachment mid-operation. Additionally, the axle the pulley wheel is located on did not go all the way through the wheel and have a cap located on the end of the axle. Not having the pulley wheel secured in this manner prevented the pulley wheel from staying on the axle. To prevent this, our group should have made the axle a press fit with the pulley wheel's center. By doing this, the pulley wheel coudl be firmly slid onto the axle and stay secured in this location.
-* 
+  
 * **Gear Rack:** * The teeth were not tall or wide enough relative to the printer resolution, resulting in poor quality. By printing too short or thin teeth, the teeth were printed with rounded edges. These rounded edges were worn down further with continuous testing. This prevented the pawl and pinion from making stable contact with the gear and would cause slippage. 
     * Teeth were too shallow to properly engage and lock the mechanism, causing slippage and unreliable tension control.
     * The gear rack lip obstructed desired spring placement. The lip made to attach to the gear was not made long enough. This caused the spring to slide off of the lip often. 
-    * 
+      
 * **Clearance & Interference:** The pawl was too wide. The pawl and gear rack should have been made more skinnier. Beacuse the pawl was wider than the gear, the gear would bend around the pawl because the pawl was stronger and stable due to larger width. Additionally, it was difficult to install the spring in the desired position. If the pawl was reduced in width, the spring could be placed a farther distance from the arm and the knob on the gear could be extended to meet the spring. This would prevent the spring from directly touching the other components of the arm brace. 
-* 
+  
 * **Archer Release Mechanism (Critical Failure):** The axle experienced high stress under loading and began to fracture. This was a direct result of material limitations, leading to misalignment and potential premature release of the locking mechanism.
-* 
+  
 * **Release Block:** The small block required awkward access or a second hand to disengage, which is less than ideal when the system is under load. To improve this design, our group should have had a fishing line that ran up the arm so that the user could easily grab the line and pull the fishing line when they needed to engage the arm brace. 
 
 **Conclusion:** The observed failures were primarily due to limitations in material strength, print resolution, improper tolerances, and user accessibility rather than flaws in the core concept. The core concept of our design worked well and our group was able to show how the design would work practically. There were some very few small changes to the design that we should have made but we did not have time to reprint it. Our group had lost access to the carbon fiber printer that was required for printing that special filament and we could not reprint the  the pawl and the gear rack to design for better contact with one another. Additionally, our group should have printed all parts in the strong material of carbon fiber to withstand the force placed on each object. Many issues listed above was due to having the incorrect material for our project.  While our group's analysis on ANSYS was correct, our group did not review how the claw in the archer release would react to high amounts of force. This caused failure at this claw. 
