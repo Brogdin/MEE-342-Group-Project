@@ -30,6 +30,18 @@ A total of **3 sets of reprints** were required. Notably, the bicep piece was or
 * **Tolerance Management:** Balancing the "slip fit" dimensions across different printers (Elegoo vs. Bambu) proved difficult, requiring manual sanding in some areas to ensure parts mated correctly.
 * **Adhesive Control:** Ensuring super glue did not seep into moving parts or the fishing line tracks during the permanent bonding phase was a significant precision challenge.
 
+Eves updates: please remove this comment/ change wording: 
+1. Our group changed the main connections from a slip fit to a very slight press fit dovetail. The orginal slip fit had too large of a gap that super glue was unable to properly connect the two bicep structure parts. 
+
+2. The main bicep structural member was split into three parts. These parts were split along the top, long middle, and the bottom. The splits were slight compression fits made using the bamboo dovetail tool. Our group included these splits to allow the large bicept structure to attach  and hold itself together well in all directions without requiring too much adhesive other than just the transverse direction.
+
+3. The adhesives our group used high-strength super glue. This glue was applied to all joints and areas where permanent structural bonds are required or where mechanical tolerances were too loose.
+
+4. One of the challenges our team faced with press fit is that some of the parts we did not plan to act as press fitted parts acted as if they were press fits. This was mostly seen within the axle for the pawl. Because the axel for the pawl was a a little larger in diameter and acted as a press fit, this axel was sanded down. 
+
+5. For the cables that acted like linkages within the assembly, we used the fishing line that could with stand the tension of 80 pounds. Because the spring could withstand teh tension of 60 pounds, the fishing line would not break under the 60 pounds the spring could hold. This fishing line was thin at 0.8 mm and allowed the string to smoothly sit ontop and not interfere with the other moving parts within our project. The fishing line was used for the dynamic connections between the gear rack and the pulley wheel. It was also used between the spring and the gear rack. Additionally, it was used between the spring and the pin on the forearm section.
+
+6. When first assembling the arm brace, tolerance management was one of the biggest issues. There were a few parts that had the same dimensions on the male and female components. For example, within our ratcheting mechanism, the gear rack struggled to smoothly up and down within the bicep structure's female  component. The male and female components of this section of the assembly were orginally the same size making it impossible for both parts to fit together. To quickly fix this issue, our group chose to sand both the female and male parts so they would work well within our design. Another issue our group faced was teh quality of the adhesive used. The super glue was having trouble attaching to the 3D prints. The super glue would also not dry properly even after waiting a longer time than recommended on the bottle. The super glue was unable to help use fix broken axles because the axels did not have a large amount of surface area to attach to the bicep structure. This still allowed the axel to be broke off the bicep structure easily. 
 ---
 
 ## 3. Test Procedures, Results, and Interpretation
